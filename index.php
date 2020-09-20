@@ -7,7 +7,7 @@
 </head>
 	<body>
 		<p>
-			Jimmy
+			Nama : Jimmy Ready 
 		</p>
 	</body>
 </html>
